@@ -1,0 +1,61 @@
+
+
+.date{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;  
+    padding:2px;
+}
+
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+    
+}
+
+.cards{
+    height:25rem;
+    width:20rem;
+    width:20rem;
+    border-radius: 30px;
+    padding:15px;
+    margin:30px;
+    /* box-shadow: 3px 6px #c2c2c2; */
+    /* box-shadow: 3px 6px #535353; */
+    
+}
+.cards:hover{
+    
+   
+    
+    
+}
+.card1{
+    background-image: url('D:\Desktop Items\Alan Project\newstalk1\src\Latest News.png');
+}
+.card2{
+    background-image:url('D:\Desktop Items\Alan Project\newstalk1\src\news2.png');
+}
+.card3{
+    background-image:url('D:\Desktop Items\Alan Project\newstalk1\src\news3.png');
+    
+}
+.card4{
+    background-image:url('D:\Desktop Items\Alan Project\newstalk1\src\News5.png');
+    
+}
+
+.activeCard{
+    border-bottom: 5px solid rgb(59, 59, 59);
+    opacity: 0.9;
+
+}
+
+

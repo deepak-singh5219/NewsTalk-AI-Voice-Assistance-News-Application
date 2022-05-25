@@ -1,0 +1,8 @@
+header {
+    position: relative;
+    height:400px;
+    background-image: linear-gradient(#33af9e, #397ba7);
+    border-bottom-left-radius: 50% 20%;
+    border-bottom-right-radius: 50% 20%;
+  }
+  
